@@ -1,11 +1,9 @@
-# Pokemon-Search
 # **Pokémon Search App**  
 
 A React-based web application that allows users to search for Pokémon, view their images, and load more Pokémon dynamically using the **PokeAPI**.  
 
 ## **Live Demo**  
-🔗 [Live Link](#) *(Replace with actual deployment link if available)*  
-
+🔗 [[Live Link](https://pokemon-search-anyone.netlify.app/)](#) 
 ## **Tech Stack**  
 - **Frontend:** React.js, JavaScript, CSS  
 - **API:** [PokeAPI](https://pokeapi.co/api/v2/pokemon)  
