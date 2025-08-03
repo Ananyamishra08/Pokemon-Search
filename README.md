@@ -15,7 +15,7 @@ A React-based web application that allows users to search for Pokémon, view the
 - Uses **async/await** and `Promise.all()` for efficient API calls.  
 
 ### 🔄 **2. Infinite Scrolling & Load More Functionality**  
-- Loads Pokémon **in batches of 50** to improve performance.  
+- Loads Pokémon **in batches of 20** to improve performance.  
 - Clicking **"Load More"** fetches the next set of Pokémon dynamically.  
 
 ### 🔍 **3. Search Functionality**  
